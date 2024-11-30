@@ -1,1 +1,1 @@
-# MedChat.ai-
+# MedChat.ai
